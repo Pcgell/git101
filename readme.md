@@ -30,3 +30,8 @@ occupan cuenta en https://github.com/
 - **git push -u origin master**
 - **git pull**
 
+## curso complementario
+
+busque en google!
+https://codigofacilito.com/cursos/git
+
