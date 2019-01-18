@@ -1,4 +1,4 @@
-HOLA MUNDO!
+#HOLA MUNDO!
 
 
 
@@ -7,17 +7,17 @@ este es una introduccion a git
 para bajar git : https://git-scm.com
 
 
-archivos o carpetas importantes 
+###archivos o carpetas importantes 
 
 .gitignore - le da un listado de archivos o carpetas que no debes ser consideradas para el control de codigo funete.
 .git - carpeta que se crea al inicializar un  repositiorio.
 
-commando  basicos locales :
+###commando  basicos locales :
 
-git status
-git init
-git add
-git commit -m
+- git status
+- git init
+- git add
+- git commit -m
 
 
 occupan cuenta en github.com
@@ -25,9 +25,8 @@ occupan cuenta en github.com
 crean un repositorio
 
 
-comandos basicos nube*:
+###comandos basicos nube*:
 
-git remot add [url]
-
-git push -u origin master
+- git remot add [url]
+- git push -u origin master
 
