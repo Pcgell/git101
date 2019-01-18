@@ -22,7 +22,7 @@ para bajar git : https://git-scm.com
 
 occupan cuenta en github.com
 
-crean un repositorio
+**crean un repositorio**
 
 
 ### comandos basicos nube*:
