@@ -20,5 +20,14 @@ git add
 git commit -m
 
 
+occupan cuenta en github.com
 
+crean un repositorio
+
+
+comandos basicos nube*:
+
+git remot add [url]
+
+git push -u origin master
 
